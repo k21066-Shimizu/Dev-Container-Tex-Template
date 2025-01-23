@@ -17,8 +17,8 @@
 \contentsline {subsection}{\numberline {4.2.1}ライブラリ探索機能}{13}
 \contentsline {subsection}{\numberline {4.2.2}ライブラリ情報の表示}{14}
 \contentsline {subsection}{\numberline {4.2.3}探索対象ライブラリの追加}{14}
-\contentsline {chapter}{\numberline {第5章}おわりに}{15}
-\contentsline {section}{\numberline {5.1}まとめ}{15}
-\contentsline {section}{\numberline {5.2}今後の課題}{15}
-\contentsline {chapter}{\numberline {} 謝辞}{16}
-\contentsline {chapter}{\numberline {} 参考文献}{17}
+\contentsline {chapter}{\numberline {第5章}おわりに}{16}
+\contentsline {section}{\numberline {5.1}まとめ}{16}
+\contentsline {section}{\numberline {5.2}今後の課題}{16}
+\contentsline {chapter}{\numberline {} 謝辞}{17}
+\contentsline {chapter}{\numberline {} 参考文献}{18}
